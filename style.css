@@ -1,0 +1,17 @@
+.mycontinent {
+    line-height: 2;
+}
+
+.modal-content {
+    margin-top: 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.modal-content p {
+    margin-top: 10px;
+}
+
+body {
+    text-align: center;
+}
